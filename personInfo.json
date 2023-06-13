@@ -1,0 +1,27 @@
+{
+    "firstName": "Giorgi",
+    "lastName": "lastname",
+    "age": 24,
+    "address": "Tbilisi, Georgia",
+    "job": "Front-End",
+    "languages": [
+        {
+            "language": "english",
+            "level": 80
+        },
+        {
+            "language": "Spanish",
+            "level": 60
+        }
+    ],
+    "skills": [
+        {
+            "language": "html",
+            "level": 80
+        },
+        {
+            "language": "css",
+            "level": 60
+        }
+    ]
+}
