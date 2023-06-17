@@ -93,12 +93,8 @@
             "level": 30
         },
         {
-            "language": "С#",
-            "level": 20
-        },
-        {
             "language": "python",
-            "level": 40
+            "level": 15
         }
     ],
     "extraSkills": [
@@ -116,6 +112,9 @@
         },
         {
             "icon": "npm, Knowledge"
+        },
+        {
+            "icon": "Jquery, php"
         }
     ],
     "myServiceDescription": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
