@@ -67,16 +67,12 @@
             "level": 80
         },
         {
-            "language": "Spanish",
-            "level": 60
-        },
-        {
             "language": "Georgian",
             "level": 99
         },
         {
-            "language": "Arabic",
-            "level": 68
+            "language": "Russian",
+            "level": 70
         }
     ],
     "skills": [
@@ -89,7 +85,11 @@
             "level": 60
         },
         {
-            "language": "Js",
+            "language": "JavaScript",
+            "level": 30
+        },
+        {
+            "language": "TypeScript",
             "level": 30
         },
         {
@@ -115,50 +115,45 @@
         },
         {
             "icon": "Jquery, php"
+        },
+        {
+            "icon": "Django, Flask"
+        },
+        {
+            "icon": "NodeJS, Express"
+        },
+        {
+            "icon": "SwiperJS, Slick slider"
         }
     ],
-    "myServiceDescription": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. lorem ipsum",
+    "myServiceDescription": "I am a frontend developer with a passion for creating beautiful and functional websites. My journey began in 2020 when I started learning HTML and CSS at Geolab, a leading technology education center. I was fascinated by the possibilities that these technologies offered, and I worked hard to master them.",
     "services": [
         {
             "title": "Web Development",
-            "description": "Blog, E-Comerce",
+            "description": "Blog, E-Comerce, Portfolio",
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/development.svg"
         },
         {
-            "title": "UI/UX Design",
-            "description": "Mobile Website Design",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/design.svg"
+            "title": "IT Support",
+            "description": "It support for company, group of Developers",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-support.jpeg"
         },
         {
-            "title": "Game Design",
-            "description": "Character Design, Props & Objects",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/game-design.svg"
+            "title": "IT Consulting",
+            "description": "It consultant for your business",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-consulting.webp"
         },
         {
-            "title": "Photography",
-            "description": "Portrait, Product Photography",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/photography.svg"
+            "title": "Site Administration",
+            "description": "Administrator for your website",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.png"
         },
         {
-            "title": "Web Development",
-            "description": "Blog, E-Comerce",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/development.svg"
-        },
-        {
-            "title": "UI/UX Design",
-            "description": "Mobile Website Design",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/design.svg"
-        },
-        {
-            "title": "Game Design",
-            "description": "Character Design, Props & Objects",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/game-design.svg"
-        },
-        {
-            "title": "Photography",
-            "description": "Portrait, Product Photography",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/photography.svg"
+            "title": "UX Consultant",
+            "description": "Useful advivces based on frontend-development experience",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/ux-design.jpg"
         }
+       
     ],
     "education": {
         "additional": "In GeoLab we teach the students how to create and organize dynamic websites. A dynamic website is saved on a web server in a form of scripts, templates and other data. Such website is located on a server as separate components.",
