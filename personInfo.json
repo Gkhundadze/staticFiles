@@ -131,12 +131,12 @@
         {
             "title": "Web Development",
             "description": "Blog, E-Comerce, Portfolio",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/web-development.jpg"
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/web-development.webp"
         },
         {
             "title": "IT Support",
             "description": "It support for company, group of Developers",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-support.jpeg"
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-support.webp"
         },
         {
             "title": "IT Consulting",
