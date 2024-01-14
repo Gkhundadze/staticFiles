@@ -134,6 +134,11 @@
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/web-development.png"
         },
         {
+            "title": "Site Administration",
+            "description": "Administrator for your website",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.png"
+        },
+        {
             "title": "IT Support",
             "description": "It support for company, group of Developers",
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-support.png"
@@ -144,14 +149,14 @@
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-consulting.png"
         },
         {
-            "title": "Site Administration",
-            "description": "Administrator for your website",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.png"
-        },
-        {
             "title": "UI/UX Consulting",
             "description": "Useful advivces based on frontend-development experience",
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/ux-design.png"
+        },
+        {
+            "title": "Logo Design",
+            "description": "Create LOGO for your business",
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/logo-design.jpg"
         }
        
     ],
