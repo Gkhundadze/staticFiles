@@ -141,12 +141,12 @@
         {
             "title": "IT Consulting",
             "description": "It consultant for your business",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-consulting.webp"
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/it-consulting.jpg"
         },
         {
             "title": "Site Administration",
             "description": "Administrator for your website",
-            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.png"
+            "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/site-admin.jpg"
         },
         {
             "title": "UX Consultant",
